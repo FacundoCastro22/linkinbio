@@ -110,7 +110,7 @@ footer {
 /* NOTA: Estos estilos pueden no aplicarse si el contenido del iframe 
    proviene de un dominio diferente, debido a las políticas de seguridad del navegador. */
    .hubspot-form iframe {
-    min-height: 425px; /* Establece una altura mínima suficiente para contener todo el formulario */
+    min-height: 490px; /* Establece una altura mínima suficiente para contener todo el formulario */
     width: 100%; /* Ocupa todo el ancho del contenedor */
     max-width: 600px; /* Establece un ancho máximo para que no se vea demasiado grande */
     margin: auto; /* Centra el iframe horizontalmente */
